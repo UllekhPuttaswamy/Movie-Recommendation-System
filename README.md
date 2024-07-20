@@ -47,7 +47,7 @@ Data cleaning steps include:
 The recommendation system uses cosine similarity to find and suggest movies that are similar to a given movie. Cosine similarity is computed based on various features extracted from the dataset.
 
 # Screenshot
-![Screenshot of web application](output.png)
+![Screenshot of web application](Screenshot.png)
 
 ## Acknowledgments
 
